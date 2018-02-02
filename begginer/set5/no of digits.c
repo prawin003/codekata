@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	YOUR PROGRAM IS NOT VALID
 	char a[1000000];
 	int i,count=0;
 	printf("enter the string\n");
